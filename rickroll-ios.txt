@@ -1,0 +1,13 @@
+REM Credit: @Mr-Proxy-source and @Willy-JL
+
+GUI h
+DELAY 1000
+GUI SPACE
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 75
+TAB
+DELAY 4000
+ENTER
+DELAY 1000
+ENTER
